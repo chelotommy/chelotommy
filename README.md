@@ -1,13 +1,7 @@
-# My Awesome Project
+#CHELO CUEVAS
 
 ![hehe](https://media.giphy.com/media/KmeIYo9IGBoGY/giphy.gif)
 
-## Introduction
+## The moon is beautiful, isn't it?
 
-Welcome to my awesome project! This repository contains all the code and resources related to [briefly describe your project's purpose or what it does].
-
-## Installation
-
-1. First, you need to clone this repository to your local machine.
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
+The phrase "The moon is beautiful, isn't it?" is a poetic way of saying "I love you" in Japanese. 
